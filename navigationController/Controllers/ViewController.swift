@@ -25,6 +25,8 @@ class ViewController: UIViewController {
         view.backgroundColor = .white
         
         configureNextButton()
+        
+        print("lesson1")
     }
     
     private func configureNextButton() {
